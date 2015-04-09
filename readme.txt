@@ -4,3 +4,4 @@ Git tracks changes.
 Git is great....
 Creating a new branch is quick and simple.
 bug
+stash
